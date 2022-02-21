@@ -10,8 +10,7 @@
 3. 自动续期
 4. docker中nginx续费重启
 ### 3.一键脚本
-+ ```bash <(curl -Ls https://github.com/baoqihui/file/raw/master/config/cert.sh)```
-+ https://github.com/baoqihui/script/raw/master/cert.sh
++ ```bash <(curl -Ls https://github.com/baoqihui/script/raw/main/cert.sh)```
 ### 4.示例图
 1. 信息定制
   + ![image](https://user-images.githubusercontent.com/50536515/154844456-c7b49470-323d-421b-8c8b-73f8ed29b1bb.png)
